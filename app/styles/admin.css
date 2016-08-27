@@ -1,0 +1,17 @@
+.mail-form{
+    background-color: lightgrey;
+    padding-left:10px;
+    height: 680px;
+
+}
+.body{
+    background-color: lightgray;
+}
+.col-lg-9, .col-lg-3 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 0px;
+    padding-left: 0px;
+    border: 1px;
+    border-radius: 1px;
+}
